@@ -1,0 +1,81 @@
+track_id,song_title,artist,audio_file,emotion_labels
+song_001,dark days,21 Savage ft. Mariah the Scientist,audio/001_21_Savage_ft_Mariah_the_Scientist_dark_days.mp3,Dark; Emotional; Melancholic; Sad; Intense
+song_002,Darkside,Alan Walker ft. Au/Ra & Tomine Harket,audio/002_Alan_Walker_ft_Au_Ra_Tomine_Harket_Darkside.mp3,Dark; Exciting; Dreamy; Mysterious; Intense
+song_003,Carry You Home,Alex Warren,audio/003_Alex_Warren_Carry_You_Home.mp3,Romantic; Heartwarming; Hopeful; Emotional; Joyful
+song_004,Eternity,Alex Warren,audio/004_Alex_Warren_Eternity.mp3,Sad; Emotional; Melancholic; Nostalgic; Lonely
+song_005,Ordinary,Alex Warren,audio/005_Alex_Warren_Ordinary.mp3,Romantic; Emotional; Heartwarming; Hopeful; Dreamy
+song_006,I Found,Amber Run,audio/006_Amber_Run_I_Found.mp3,Emotional; Romantic; Melancholic; Intense; Sad
+song_007,Almost Is Never Enough,Ariana Grande ft. Nathan Sykes,audio/007_Ariana_Grande_ft_Nathan_Sykes_Almost_Is_Never_Enough.mp3,Sad; Emotional; Romantic; Melancholic; Tragic
+song_008,Let Me Love You,Ariana Grande ft. Lil Wayne,audio/008_Ariana_Grande_ft_Lil_Wayne_Let_Me_Love_You.mp3,Romantic; Dreamy; Intense; Emotional; Melancholic
+song_009,Petal,Ariana Grande,audio/009_Ariana_Grande_petal.mp3,Dreamy; Emotional; Romantic; Melancholic; Hopeful
+song_010,Stop the Wedding!,Ashe,audio/010_Ashe_Stop_the_Wedding.mp3,Emotional; Intense; Sad; Melancholic; Hopeful
+song_011,Take You to Hell,Ava Max,audio/011_Ava_Max_Take_You_to_Hell.mp3,Dark; Playful; Intense; Romantic; Exciting
+song_012,Beautiful Things,Benson Boone,audio/012_Benson_Boone_Beautiful_Things.mp3,Emotional; Intense; Romantic; Hopeful; Sad
+song_013,Just a Game,Birdy,audio/013_Birdy_Just_a_Game.mp3,Emotional; Sad; Melancholic; Romantic; Dreamy
+song_014,Dancing On My Own,Calum Scott,audio/014_Calum_Scott_Dancing_On_My_Own.mp3,Sad; Emotional; Lonely; Melancholic; Romantic
+song_015,Crying in the Club,Camila Cabello,audio/015_Camila_Cabello_Crying_in_the_Club.mp3,Emotional; Sad; Exciting; Hopeful; Intense
+song_016,Shameless,Camila Cabello,audio/016_Camila_Cabello_Shameless.mp3,Intense; Romantic; Dark; Emotional; Chaotic
+song_017,Safe and Sound,Capital Cities,audio/017_Capital_Cities_Safe_and_Sound.mp3,Joyful; Hopeful; Playful; Exciting; Heartwarming
+song_018,Little Girl Gone,CHINCHILLA,audio/018_CHINCHILLA_Little_Girl_Gone.mp3,Angry; Intense; Chaotic; Dark; Exciting
+song_019,Atlas,Coldplay,audio/019_Coldplay_Atlas.mp3,Dreamy; Hopeful; Emotional; Melancholic; Peaceful
+song_020,Put Your Records On,Corinne Bailey Rae,audio/020_Corinne_Bailey_Rae_Put_Your_Records_On.mp3,Joyful; Peaceful; Hopeful; Heartwarming; Cozy
+song_021,The First Time,Damiano David,audio/021_Damiano_David_The_First_Time.mp3,Romantic; Joyful; Emotional; Nostalgic; Hopeful
+song_022,Daylight,David Kushner,audio/022_David_Kushner_Daylight.mp3,Dark; Emotional; Intense; Melancholic; Mysterious
+song_023,Mi Chico,"DJ Goja, Jason Derulo & Melody",audio/023_DJ_Goja_Jason_Derulo_Melody_Mi_Chico.mp3,Joyful; Playful; Exciting; Romantic; Dreamy
+song_024,do the math,Dove Cameron,audio/024_Dove_Cameron_do_the_math.mp3,Angry; Intense; Emotional; Dark; Playful
+song_025,Too Much,Dove Cameron,audio/025_Dove_Cameron_Too_Much.mp3,Playful; Exciting; Intense; Angry; Joyful
+song_026,Caribbean Blue,Enya (probable; fan edit needs verification),audio/026_Enya_probable_fan_edit_needs_verification_Caribbean_Blue.mp3,Dreamy; Magical; Peaceful; Mysterious; Nostalgic
+song_027,Training Season (Live from the Royal Albert Hall),Dua Lipa,audio/027_Dua_Lipa_Training_Season_Live_from_the_Royal_Albert_Hall.mp3,Exciting; Playful; Intense; Romantic; Joyful
+song_028,I See Fire,Ed Sheeran,audio/028_Ed_Sheeran_I_See_Fire.mp3,Dark; Emotional; Epic; Melancholic; Hopeful
+song_029,MIDDLE OF THE NIGHT,Elley Duhé,audio/029_Elley_Duh_MIDDLE_OF_THE_NIGHT.mp3,Intense; Mysterious; Dark; Romantic; Dreamy
+song_030,Everybody Wants to Rule the World,Lorde,audio/030_Lorde_Everybody_Wants_to_Rule_the_World.mp3,Dark; Mysterious; Intense; Epic; Melancholic
+song_031,Minefields,Faouzia & John Legend,audio/031_Faouzia_John_Legend_Minefields.mp3,Romantic; Emotional; Intense; Hopeful; Sad
+song_032,UNETHICAL,Faouzia,audio/032_Faouzia_UNETHICAL.mp3,Intense; Dark; Angry; Chaotic; Emotional
+song_033,Forbidden Fruit,"Tommee Profitt, Sam Tinnesz & brooke",audio/033_Tommee_Profitt_Sam_Tinnesz_brooke_Forbidden_Fruit.mp3,Dark; Intense; Mysterious; Epic; Romantic
+song_034,All About Us,He Is We ft. Owl City,audio/034_He_Is_We_ft_Owl_City_All_About_Us.mp3,Heartwarming; Emotional; Romantic; Hopeful; Dreamy
+song_035,Heart by Heart,Demi Lovato,audio/035_Demi_Lovato_Heart_by_Heart.mp3,Emotional; Romantic; Intense; Heartwarming; Hopeful
+song_036,I See Red,Everybody Loves an Outlaw,audio/036_Everybody_Loves_an_Outlaw_I_See_Red.mp3,Angry; Intense; Dark; Emotional; Chaotic
+song_037,I Wanna Be Yours,Arctic Monkeys,audio/037_Arctic_Monkeys_I_Wanna_Be_Yours.mp3,Romantic; Dreamy; Intense; Melancholic; Nostalgic
+song_038,Babydoll,Jamie Miller,audio/038_Jamie_Miller_Babydoll.mp3,Romantic; Playful; Joyful; Heartwarming; Dreamy
+song_039,When the Darkness Comes,Jeris Johnson,audio/039_Jeris_Johnson_When_the_Darkness_Comes.mp3,Dark; Intense; Angry; Epic; Mysterious
+song_040,Joke's On You,Charlotte Lawrence,audio/040_Charlotte_Lawrence_Joke_s_On_You.mp3,Dark; Emotional; Angry; Intense; Melancholic
+song_041,Way Down We Go,KALEO,audio/041_KALEO_Way_Down_We_Go.mp3,Dark; Intense; Emotional; Melancholic; Mysterious
+song_042,Animal,KATSEYE,audio/042_KATSEYE_Animal.mp3,Exciting; Playful; Intense; Romantic; Chaotic
+song_043,Legendary Lovers,Katy Perry,audio/043_Katy_Perry_Legendary_Lovers.mp3,Romantic; Magical; Exciting; Dreamy; Intense
+song_044,Kingdom Come,Manowar,audio/044_Manowar_Kingdom_Come.mp3,Epic; Intense; Adventurous; Hopeful; Exciting
+song_045,All for Us (PAL pitch edit),Labrinth & Zendaya,audio/045_Labrinth_Zendaya_All_for_Us_PAL_pitch_edit.mp3,Dark; Intense; Emotional; Epic; Chaotic
+song_046,Sleep Paralysis,Lana Del Rey (unverified attribution),audio/046_Lana_Del_Rey_unverified_attribution_Sleep_Paralysis.mp3,Scary; Dark; Disturbing; Mysterious; Dreamy
+song_047,Young and Beautiful,Lana Del Rey,audio/047_Lana_Del_Rey_Young_and_Beautiful.mp3,Romantic; Melancholic; Emotional; Dreamy; Nostalgic
+song_048,Everybody's On Drugs,Lauren Jauregui,audio/048_Lauren_Jauregui_Everybody_s_On_Drugs.mp3,Dark; Chaotic; Emotional; Disturbing; Intense
+song_049,Yellow Flicker Beat,Lorde,audio/049_Lorde_Yellow_Flicker_Beat.mp3,Intense; Dark; Mysterious; Epic; Angry
+song_050,Showed Me (How I Fell in Love with You),Madison Beer,audio/050_Madison_Beer_Showed_Me_How_I_Fell_in_Love_with_You.mp3,Dreamy; Romantic; Mysterious; Nostalgic; Melancholic
+song_051,Magnetic,Jessie J,audio/051_Jessie_J_Magnetic.mp3,Exciting; Intense; Playful; Romantic; Joyful
+song_052,Shimmer,Meghan Trainor,audio/052_Meghan_Trainor_Shimmer.mp3,Joyful; Playful; Exciting; Hopeful; Heartwarming
+song_053,Twisted,MISSIO,audio/053_MISSIO_Twisted.mp3,Intense; Chaotic; Dark; Disturbing; Angry
+song_054,Sword and Shield,Neoni & Johnny Huynh,audio/054_Neoni_Johnny_Huynh_Sword_and_Shield.mp3,Epic; Emotional; Intense; Hopeful; Romantic
+song_055,Night at the Opera,Emei,audio/055_Emei_Night_at_the_Opera.mp3,Chaotic; Intense; Playful; Exciting; Emotional
+song_056,Nothing to Remember,Neko Case,audio/056_Neko_Case_Nothing_to_Remember.mp3,Melancholic; Emotional; Sad; Nostalgic; Lonely
+song_057,One Engine,The Decemberists,audio/057_The_Decemberists_One_Engine.mp3,Intense; Exciting; Adventurous; Epic; Dark
+song_058,labour,Paris Paloma,audio/058_Paris_Paloma_labour.mp3,Angry; Intense; Dark; Emotional; Tragic
+song_059,Try,P!nk,audio/059_P_nk_Try.mp3,Emotional; Intense; Hopeful; Romantic; Sad
+song_060,Do It for Me,Rosenfeld,audio/060_Rosenfeld_Do_It_for_Me.mp3,Romantic; Dark; Intense; Mysterious; Dreamy
+song_061,Taste,Sabrina Carpenter,audio/061_Sabrina_Carpenter_Taste.mp3,Playful; Exciting; Angry; Romantic; Joyful
+song_062,Fire on Fire,Sam Smith,audio/062_Sam_Smith_Fire_on_Fire.mp3,Romantic; Emotional; Intense; Epic; Hopeful
+song_063,Set Fire to the Rain,Adele,audio/063_Adele_Set_Fire_to_the_Rain.mp3,Emotional; Sad; Angry; Intense; Tragic
+song_064,Elastic Heart,Sia,audio/064_Sia_Elastic_Heart.mp3,Emotional; Intense; Hopeful; Sad; Epic
+song_065,Skyfall,Adele,audio/065_Adele_Skyfall.mp3,Dark; Epic; Intense; Mysterious; Emotional
+song_066,Speak Now,Taylor Swift,audio/066_Taylor_Swift_Speak_Now.mp3,Playful; Romantic; Hopeful; Exciting; Joyful
+song_067,Stand Up,Cynthia Erivo,audio/067_Cynthia_Erivo_Stand_Up.mp3,Hopeful; Emotional; Epic; Intense; Heartwarming
+song_068,Bad News,Stellar ft. Black Gryph0n & Baasik,audio/068_Stellar_ft_Black_Gryph0n_Baasik_Bad_News.mp3,Dark; Playful; Intense; Chaotic; Mysterious
+song_069,Don't Blame Me,Taylor Swift,audio/069_Taylor_Swift_Don_t_Blame_Me.mp3,Intense; Romantic; Dark; Chaotic; Emotional
+song_070,The Fate of Ophelia,Taylor Swift,audio/070_Taylor_Swift_The_Fate_of_Ophelia.mp3,Romantic; Emotional; Intense; Dreamy; Hopeful
+song_071,Lose Control (The Village Sessions),Teddy Swims,audio/071_Teddy_Swims_Lose_Control_The_Village_Sessions.mp3,Emotional; Intense; Romantic; Sad; Lonely
+song_072,The Door,Teddy Swims,audio/072_Teddy_Swims_The_Door.mp3,Emotional; Intense; Sad; Hopeful; Melancholic
+song_073,Never Enough,Loren Allred,audio/073_Loren_Allred_Never_Enough.mp3,Emotional; Romantic; Intense; Epic; Melancholic
+song_074,Sweater Weather,The Neighbourhood,audio/074_The_Neighbourhood_Sweater_Weather.mp3,Nostalgic; Romantic; Dreamy; Melancholic; Intense
+song_075,Strange Days,Three Days Grace,audio/075_Three_Days_Grace_Strange_Days.mp3,Dark; Intense; Angry; Chaotic; Emotional
+song_076,Three Steps Ahead,Jared Benjamin,audio/076_Jared_Benjamin_Three_Steps_Ahead.mp3,Dark; Mysterious; Intense; Playful; Chaotic
+song_077,Tomorrow Will Be Kinder,The Secret Sisters,audio/077_The_Secret_Sisters_Tomorrow_Will_Be_Kinder.mp3,Hopeful; Emotional; Peaceful; Melancholic; Sad
+song_078,You?,Two Feet,audio/078_Two_Feet_You.mp3,Dark; Romantic; Mysterious; Melancholic; Intense
+song_079,Figure You Out,VOILÀ,audio/079_VOIL_Figure_You_Out.mp3,Intense; Romantic; Dark; Emotional; Mysterious
+song_080,Midnight Sun,Zara Larsson,audio/080_Zara_Larsson_Midnight_Sun.mp3,Joyful; Exciting; Dreamy; Playful; Hopeful

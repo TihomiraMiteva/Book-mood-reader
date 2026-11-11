@@ -1,0 +1,11 @@
+song_title,artist,audio_file,predicted_emotions,match_score
+Skyfall,Adele,audio/065_Adele_Skyfall.mp3,"Intense, Epic, Emotional, Melancholic, Romantic, Dark",0.3808777400640458
+Yellow Flicker Beat,Lorde,audio/049_Lorde_Yellow_Flicker_Beat.mp3,"Intense, Epic, Emotional, Hopeful, Romantic",0.34599240003341714
+I See Fire,Ed Sheeran,audio/028_Ed_Sheeran_I_See_Fire.mp3,"Intense, Emotional, Melancholic, Romantic, Dark",0.3265680340583123
+Never Enough,Loren Allred,audio/073_Loren_Allred_Never_Enough.mp3,"Intense, Emotional, Melancholic, Romantic",0.29220735175774604
+Do It for Me,Rosenfeld,audio/060_Rosenfeld_Do_It_for_Me.mp3,"Intense, Emotional, Melancholic, Romantic",0.29220735175774604
+do the math,Dove Cameron,audio/024_Dove_Cameron_do_the_math.mp3,"Intense, Emotional, Melancholic, Romantic",0.29220735175774604
+Atlas,Coldplay,audio/019_Coldplay_Atlas.mp3,"Intense, Emotional, Melancholic, Romantic",0.29220735175774604
+Dancing On My Own,Calum Scott,audio/014_Calum_Scott_Dancing_On_My_Own.mp3,"Intense, Emotional, Melancholic, Romantic",0.29220735175774604
+Just a Game,Birdy,audio/013_Birdy_Just_a_Game.mp3,"Intense, Emotional, Melancholic, Romantic",0.29220735175774604
+I See Red,Everybody Loves an Outlaw,audio/036_Everybody_Loves_an_Outlaw_I_See_Red.mp3,"Intense, Emotional, Melancholic, Romantic",0.29220735175774604

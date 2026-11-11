@@ -1,0 +1,22 @@
+{
+  "task_books": "multi-label classification",
+  "task_songs": "multi-label classification",
+  "book_strong_rating_threshold": 4,
+  "books": 15,
+  "songs": 80,
+  "book_split": [
+    10,
+    2,
+    3
+  ],
+  "song_split": [
+    56,
+    8,
+    16
+  ],
+  "selected_book_model": "Logistic Regression",
+  "selected_song_model": "Logistic Regression",
+  "book_test_micro_F1": 0.3684210526315789,
+  "song_test_micro_F1": 0.45161290322580644,
+  "song_labels_reviewed_ground_truth": false
+}
