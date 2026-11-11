@@ -8,7 +8,7 @@ Book Mood Reader is a student AI project by **Tihomira Miteva**. It explores whe
 
 The repository includes the final notebook, two small self-collected datasets, model comparisons, evaluation results, a local Streamlit demo and the supporting project documents.
 
-## Start here
+## Relevant files
 
 - [Notebook](notebooks/Book_Mood_Reader.ipynb)
 - [Demo setup and walkthrough](docs/demo.md)
