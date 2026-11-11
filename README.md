@@ -10,13 +10,11 @@ The repository includes the final notebook, two small self-collected datasets, m
 
 ## Start here
 
-- [Final notebook, with code, explanations and outputs](notebooks/Book_Mood_Reader.ipynb)
-- [Read-only notebook report](reports/Book_Mood_Reader.html)
+- [Notebook](notebooks/Book_Mood_Reader.ipynb)
 - [Demo setup and walkthrough](docs/demo.md)
 - [Project proposal](docs/reports/project_proposal.pdf)
 - [Data collection report](docs/reports/data_collection_report.pdf)
 - [Project architecture](docs/images/architecture.png)
-- [Final presentation](docs/presentation/Book_Mood_Reader.pptx)
 - [Reflection and next steps](docs/reflection.md)
 
 ## Research question
