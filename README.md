@@ -56,7 +56,7 @@ The requested split is approximately **70% training / 10% validation / 20% testi
 
 Validation **micro F1** selects the classifier. Logistic Regression was retained for books after a validation tie, and selected for songs. The test set is used after model selection. See [methodology](docs/methodology.md) for preprocessing, metrics and matching.
 
-## Recorded results
+## Results
 
 | Selected model | Test precision (micro) | Test recall (micro) | Test micro F1 | Test exact-match accuracy |
 | --- | ---: | ---: | ---: | ---: |
